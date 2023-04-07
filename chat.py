@@ -27,11 +27,16 @@ if __name__ == "__main__":
         "Album":"DJ SMOOTH PANDA", 
         "Singles":"", 
         "How old is DJSP":"", 
-        "What school did djsp go to":"I am sorry but as a chatbot i cannot answer that question to protect the privacy", 
+        "What school did djsp go to":"I am sorry but as a chatbot i cannot answer that question to protect the privacy of the person", 
         "Who is Steak Youtube":"(born July 31, 2001) also known as steakwads or Snooze, is an American YouTuber who is known for uploading shorts about Roblox facts, and streaming himself doing certain challenges, most challenges being about his subscriber count.", 
          "What is Steak Youtube real name":"klein linton", 
         "What is Steak Youtube Birthday":"July 31st 2001.", 
-		"How many years has steak been uploading to youtube?":"", 
+		"How many years has steak been uploading to youtube?":"",
+        "Who is carbonmiester youtube":"",
+        "How old is carbonmiester youtube":"He is 26 years old",
+        "What is My Restaurant Roblox":"",
+        "What are farts":"",
+        "Why do people fart":"",
          " stop":"Thank you for natta with me. Goodbye!"
     })
 
