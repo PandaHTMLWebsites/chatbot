@@ -37,7 +37,13 @@ if __name__ == "__main__":
         "What is My Restaurant Roblox":"",
         "What are farts":"",
         "Why do people fart":"",
-         " stop":"Thank you for natta with me. Goodbye!"
+        "What is the chase UK tv show":"",
+        "what was the chase Australia tv show":""
+        "When did the chase UK start":"29 June 2009",
+        "the chase uk start date":"29 June 2009",
+        "when did the chase australia start":"14 September 2015 ",
+        "the chase australia start date":"14 September 2015",
+         "stop":"Thank you for natta with me. Goodbye!"
     })
 
     while True:
