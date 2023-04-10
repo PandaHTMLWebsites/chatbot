@@ -43,6 +43,9 @@ if __name__ == "__main__":
         "the chase uk start date":"29 June 2009",
         "when did the chase australia start":"14 September 2015 ",
         "the chase australia start date":"14 September 2015",
+        "What is the UK tv show Saturday Night Takeaway":"",
+        "What is the tv show Saturday Night Takeaway":"",
+        "What is the tv show SNT:"",
          "stop":"Thank you for natta with me. Goodbye!"
     })
 
