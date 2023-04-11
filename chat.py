@@ -46,6 +46,7 @@ if __name__ == "__main__":
         "What is the UK tv show Saturday Night Takeaway":"",
         "What is the tv show Saturday Night Takeaway":"",
         "What is the tv show SNT:"",
+        "What is the youtube channel techquickie?":"",
          "stop":"Thank you for natta with me. Goodbye!"
     })
 
